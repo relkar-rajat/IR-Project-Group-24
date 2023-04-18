@@ -29,4 +29,8 @@ After the user dictates their  message, the system uses a  speech-to-text transc
 <p aligh="justify"> <b> Step 3 : Run The Command python manage.py runserver And Open The Link http://127.0.0.1:8000/ in your browser </b> </p>
 <br>
 
+## Screenshot Of CMD : 
+![](./Images/Run.jpg)
+
 ## <p aligh="justify"> <b> NOTE : After The Browser Opens, Single Click Anywhere On the Screen To Start Interacting With Our System </b> </p>
+<br>

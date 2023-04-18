@@ -1,1 +1,4 @@
-This is voice based email system for the blind done by group 24 
+This is voice based email system for the blind done by group 24
+Group members:-
+1.Shivam Pandey
+2.Rajat Relkar
